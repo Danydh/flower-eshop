@@ -26,8 +26,6 @@ const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'contact-us', component: ContactUsComponent },
   { path: 'admin-panel', component: AdminComponent },
-
-<<<<<<< HEAD
   { path: 'my-account', component: MyAccountComponent },
   { path: 'login', component: LoginComponent },
 =======
